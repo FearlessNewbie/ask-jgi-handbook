@@ -52,7 +52,7 @@ You can do this as a sort of buddy system, with one person taking the lead and t
 
 ## 4. Assign yourself on the tracker
 
-Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [tracker](tracker), and recording information on the and faculty of the querier, and allocating relevant tags.
+Once it has been agreed who will pick up the query, that team member is responsible for assigning the task to themselves on the [tracker](tracker), and recording information on the department and faculty of the querier, and allocating relevant tags.
 Instructions on how to fill out tickets on the Ask-JGI tracker can be found [here](tracker).
 
 ## 5.  Respond to the query
